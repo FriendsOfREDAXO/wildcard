@@ -25,7 +25,7 @@ Wildcard lässt dich Platzhalter nutzen, die du in deinem Add-on oder Theme defi
 
 ## Lizenz
 
-MIT Lizenz, siehe [LICENSE.md](https://github.com/FriendsOfREDAXO/wildcard/blob/master/LICENSE)  
+MIT Lizenz, siehe [LICENSE](https://github.com/FriendsOfREDAXO/wildcard/blob/master/LICENSE)  
 
 ## Autor
 
