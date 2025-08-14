@@ -35,7 +35,6 @@ MIT Lizenz, siehe [LICENSE.md](https://github.com/alexplusde/wildcard/blob/maste
 ## Credits
 
 **Alexander Walther**  
-<http://www.alexplus.de>  
 <https://github.com/alexplusde>  
 
 **Projekt-Lead**  
